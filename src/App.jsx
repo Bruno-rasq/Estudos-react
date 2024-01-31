@@ -5,7 +5,6 @@ import Body from './componentes/Body';
 
 export default function App(){
   
-  
   return(
     <>
       <Header/>
